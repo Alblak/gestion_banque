@@ -1,0 +1,12 @@
+D:\things\projetsdesktop\gestion_banque\banque\banque\bin\Debug\banque.exe.config
+D:\things\projetsdesktop\gestion_banque\banque\banque\bin\Debug\banque.exe
+D:\things\projetsdesktop\gestion_banque\banque\banque\bin\Debug\banque.pdb
+D:\things\projetsdesktop\gestion_banque\banque\banque\obj\Debug\banque.csprojResolveAssemblyReference.cache
+D:\things\projetsdesktop\gestion_banque\banque\banque\obj\Debug\banque.Accueil.resources
+D:\things\projetsdesktop\gestion_banque\banque\banque\obj\Debug\banque.Form1.resources
+D:\things\projetsdesktop\gestion_banque\banque\banque\obj\Debug\banque.Principal.resources
+D:\things\projetsdesktop\gestion_banque\banque\banque\obj\Debug\banque.Properties.Resources.resources
+D:\things\projetsdesktop\gestion_banque\banque\banque\obj\Debug\banque.csproj.GenerateResource.Cache
+D:\things\projetsdesktop\gestion_banque\banque\banque\obj\Debug\banque.exe
+D:\things\projetsdesktop\gestion_banque\banque\banque\obj\Debug\banque.pdb
+D:\things\projetsdesktop\gestion_banque\banque\banque\obj\Debug\banque.Compte.resources

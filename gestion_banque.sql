@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : 127.0.0.1
--- Généré le : sam. 25 jan. 2025 à 14:30
+-- Généré le : sam. 25 jan. 2025 à 15:49
 -- Version du serveur : 10.4.32-MariaDB
 -- Version de PHP : 8.0.30
 
@@ -73,7 +73,8 @@ CREATE TABLE `coupure_usd` (
 CREATE TABLE `depot` (
   `id` int(11) NOT NULL,
   `num_compte` int(11) NOT NULL,
-  `date_depot` datetime NOT NULL
+  `date_depot` datetime NOT NULL,
+  `user` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 -- --------------------------------------------------------
@@ -100,7 +101,8 @@ CREATE TABLE `operation` (
 CREATE TABLE `retrait` (
   `id` int(11) NOT NULL,
   `num_compte` int(11) NOT NULL,
-  `date_retrait` datetime NOT NULL
+  `date_retrait` datetime NOT NULL,
+  `user` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
